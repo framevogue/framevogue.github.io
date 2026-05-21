@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.framevogue.com
+Sitemap: https://www.framevogue.com/sitemap.xml
